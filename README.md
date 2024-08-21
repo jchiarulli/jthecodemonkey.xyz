@@ -4,7 +4,7 @@
 
 - The site jthecodemonkey.xyz is used to provide links to projects, socials, code, relays, donations, etc.
 
-- The site includes a personal <a href="https://nostr.com/">Nostr</a>relay running <a href="https://github.com/github-tijlxyz/khatru-pyramid/tree/main">Khatru Pyramid</a> located at <a href="https://relay.jthecodemonkey.xyz/">relay.jthecodemonkey.xyz</a>
+- The site includes a personal <a href="https://nostr.com/">Nostr</a> relay running <a href="https://github.com/github-tijlxyz/khatru-pyramid/tree/main">Khatru Pyramid</a> located at <a href="https://relay.jthecodemonkey.xyz/">relay.jthecodemonkey.xyz</a>
 
 - Check out my posts on my personal Nostr relay: `wss://relay.jthecodemonkey.xyz`
 
